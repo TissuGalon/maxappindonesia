@@ -1,0 +1,81 @@
+<div class="feature-area middle home-4 section-padding" data-scroll-index="2">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 offset-md-2">
+        <div class="section-title m-b-50">
+          <h2>Kenapa pilih kami ?</h2>
+          <p>
+            Kami salah satu start up on-Demand yang memberikan fitur gratis
+            ongkir di seluruh produk Mitra dengan status Partner.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="row">
+          <!--Single Feature Box-->
+          <div class="col-md-6">
+            <div class="feature-box style-2">
+              <div class="feature-icon">
+                <img src="assets/img/icon-img1.png" alt="" />
+              </div>
+              <h4>Automatic backups</h4>
+              <p>
+                It doesn't matter if you are in an office or on an airplane. You
+                will never lose a second just because there is no internet
+                connection.
+              </p>
+            </div>
+          </div>
+          <!--Single Feature Box-->
+          <!--Single Feature Box-->
+          <div class="col-md-6">
+            <div class="feature-box style-2">
+              <div class="feature-icon">
+                <img src="assets/img/icon-img2.png" alt="" />
+              </div>
+              <h4>Best Privacy for document</h4>
+              <p>
+                It doesn't matter if you are in an office or on an airplane. You
+                will never lose a second just because there is no internet
+                connection.
+              </p>
+            </div>
+          </div>
+          <!--Single Feature Box-->
+          <!--Single Feature Box-->
+          <div class="col-md-6">
+            <div class="feature-box style-2">
+              <div class="feature-icon">
+                <img src="assets/img/icon-img3.png" alt="" />
+              </div>
+              <h4>Easily manage works.</h4>
+              <p>
+                It doesn't matter if you are in an office or on an airplane. You
+                will never lose a second just because there is no internet
+                connection.
+              </p>
+            </div>
+          </div>
+          <!--Single Feature Box-->
+          <!--Single Feature Box-->
+          <div class="col-md-6">
+            <div class="feature-box style-2">
+              <div class="feature-icon">
+                <img src="assets/img/icon-img4.png" alt="" />
+              </div>
+              <h4>Works completely offline</h4>
+              <p>
+                It doesn't matter if you are in an office or on an airplane. You
+                will never lose a second just because there is no internet
+                connection.
+              </p>
+            </div>
+          </div>
+          <!--Single Feature Box-->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
